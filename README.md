@@ -5,7 +5,6 @@ A full-stack bookmark manager built with Next.js (App Router), Supabase (Auth, D
 ## Features Implemented
 
 ✅ Google OAuth authentication
-
 ✅ Added bookmarks (URL + title)  
 ✅ Private bookmarks per user  
 ✅ Real-time updates across tabs  
