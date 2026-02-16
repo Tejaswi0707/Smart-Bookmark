@@ -18,13 +18,6 @@ A full-stack bookmark manager built with Next.js (App Router), Supabase (Auth, D
 - **Backend**: Supabase (Auth, PostgreSQL, Realtime)
 - **Deployment**: Vercel
 
-## Local Setup
-
-1. Clone the repo
-```bash
-git clone https://github.com/perplexityai/smart-bookmark-app.git
-cd smart-bookmark-app
-
 ## Challenges Faced & Solutions
 
 ### OAuth Redirect Configuration
